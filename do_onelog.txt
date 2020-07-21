@@ -1,0 +1,23 @@
+commit c126fea1ddac5ac57fc86fb8d0355257e76d509a
+Author: MikeBakinovski <mike.bakinovski@gmail.com>
+Date:   Tue Jul 21 09:33:27 2020 +0300
+
+    Second commit to dev with devlog.txt file.
+
+commit 1dedc6e0ab1da1319aa1c35771b6f83c215d53ee
+Author: MikeBakinovski <mike.bakinovski@gmail.com>
+Date:   Tue Jul 21 09:33:27 2020 +0300
+
+    First commit to dev with devlog.txt file.
+
+commit 595c1c3aea8587ab6871ff90fd20dbbc461950c4
+Author: MikeBakinovski <mike.bakinovski@gmail.com>
+Date:   Tue Jul 21 09:33:27 2020 +0300
+
+    Second commit to master with masterlog.txt file.
+
+commit 82993334529b7baf0fa34676d44a5bbdcd43b640
+Author: MikeBakinovski <mike.bakinovski@gmail.com>
+Date:   Tue Jul 21 09:33:27 2020 +0300
+
+    First commit to master with 02.Home_Task.txt file.
