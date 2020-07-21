@@ -29,7 +29,7 @@ printf "Initialize local repository on your test host. Create the following bran
 
     All your commands put into files 02.GIT.Local.md and add to your repository, then prepare PR (Pull Request)
 
-    IMPORTANT\!\!\! Use git markup for your report. See link
+    IMPORTANT!!! Use git markup for your report. See link
 
     Additional: Create README.md with project description in your folder. You will be maintain its during our course till the final demo
 " > 02.Home_Task.txt

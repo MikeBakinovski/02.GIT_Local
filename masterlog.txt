@@ -1,5 +1,7 @@
-commit 82993334529b7baf0fa34676d44a5bbdcd43b640
-Author: MikeBakinovski <mike.bakinovski@gmail.com>
-Date:   Tue Jul 21 09:33:27 2020 +0300
-
-    First commit to master with 02.Home_Task.txt file.
+98b231a HOTFIX DEPLOY TO 'master' BRANCH
+5ad5747 One commit to features/do_one with do_onelog.txt file.
+d4cb2ba One commit to hotfix/we_gonna_die with gonna_dielog.txt file.
+c126fea Second commit to dev with devlog.txt file.
+595c1c3 Second commit to master with masterlog.txt file.
+1dedc6e First commit to dev with devlog.txt file.
+8299333 First commit to master with 02.Home_Task.txt file.
